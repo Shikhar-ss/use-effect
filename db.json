@@ -11,6 +11,46 @@
     {
       "item": "rice",
       "id": 3
+    },
+    {
+      "item": "almond",
+      "id": 4
+    },
+    {
+      "item": "rasins",
+      "id": 5
+    },
+    {
+      "item": "milk",
+      "id": 6
+    },
+    {
+      "item": "clove",
+      "id": 7
+    },
+    {
+      "item": "clove",
+      "id": 8
+    },
+    {
+      "item": "honey",
+      "id": 9
+    },
+    {
+      "item": "rock",
+      "id": 10
+    },
+    {
+      "item": "sand",
+      "id": 11
+    },
+    {
+      "item": "car",
+      "id": 12
+    },
+    {
+      "item": "bike",
+      "id": 13
     }
   ]
 }
