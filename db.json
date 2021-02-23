@@ -1,12 +1,16 @@
 {
-    "list": [
-        {
-            "id": 1,
-            "item": "bread"
-        },
-        {
-            "id": 2,
-            "item": "banana"
-        }
-    ]
+  "list": [
+    {
+      "id": 1,
+      "item": "bread"
+    },
+    {
+      "id": 2,
+      "item": "banana"
+    },
+    {
+      "item": "rice",
+      "id": 3
+    }
+  ]
 }
